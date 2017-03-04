@@ -1,9 +1,9 @@
-Wallpicker
+WallPicker
 =========================================
 
 About
 =========================================
-a online wallpaper feeder that changes the desktop wallpaper in specified time interval and also refreshes the wallpaper list of the user whenever it finds an active internet connection.
+A online wallpaper feeder that changes the desktop wallpaper in specified time interval and also refreshes the wallpaper list of the user whenever it finds an active internet connection.
 
 Istallation
 =========================================
